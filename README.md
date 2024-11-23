@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -36,4 +38,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1972-rotating-the-box) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
