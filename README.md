@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
+| [0724-find-pivot-index](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -50,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
