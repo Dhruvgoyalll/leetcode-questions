@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -55,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0724-find-pivot-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
