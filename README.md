@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0724-find-pivot-index) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
 ## Counting
 |  |
