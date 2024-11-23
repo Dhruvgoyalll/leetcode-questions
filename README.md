@@ -20,14 +20,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1972-rotating-the-box) |
 <!---LeetCode Topics End-->
