@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Array
 |  |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/1972-rotating-the-box) |
