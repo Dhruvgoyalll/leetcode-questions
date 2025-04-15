@@ -1,4 +1,4 @@
-class Solution {
+class Solution {          //BFS approach
 public:
     bool validPath(int n, vector<vector<int>>& edges, int source,
                    int destination) {
@@ -22,8 +22,8 @@ public:
             int cvertex = q.front();
             q.pop();
 
-            if (cvertex == destination)
-                return true;
+          //  if (cvertex == destination)
+            //    return true;
 
             for (int i = 0; i < adjList[cvertex].size(); i++) {
                 int svertex = adjList[cvertex][i];
