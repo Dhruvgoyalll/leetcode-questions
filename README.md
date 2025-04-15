@@ -84,13 +84,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2201-valid-arrangement-of-pairs) |
 ## Graph
 |  |
 | ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2201-valid-arrangement-of-pairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
