@@ -103,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/2121-find-if-path-exists-in-graph) |
+## Math
+|  |
+| ------- |
+| [3830-find-closest-person](https://github.com/Dhruvgoyalll/leetcode-questions/tree/master/3830-find-closest-person) |
 <!---LeetCode Topics End-->
